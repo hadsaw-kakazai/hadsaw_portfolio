@@ -3,9 +3,9 @@ import "./intro.css";
 import { FaAward } from "react-icons/fa";
 import React from "react";
 import { VscFolderLibrary } from "react-icons/vsc";
-import img from '../../assets/Me.png'
+import img from '../../assets/Passport Size Photo Hadsaw kakazai .jpg'
 
-// import ME from '../../assets/Rasif Tagizade image.jpg';
+
 
 
 const Intro = () => {
@@ -16,7 +16,7 @@ const Intro = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={img} alt="Rasif Taghizade" />
+            <img src={img} alt="Hadsaw Kakazai" />
           </div>
         </div>
         <div className="about__content">
@@ -24,7 +24,7 @@ const Intro = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>1.5 year</small>
+              <small>1 year</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
@@ -33,14 +33,14 @@ const Intro = () => {
             </article>
           </div>
           <p>
-            1+ years experienced Front End Developer with hands-on experience in
-            identifying web-based user interactions along with designing and
-            implementing highly-responsive user interface components by
-            deploying React concepts. Proficient in translating designs and
-            wireframes into high-quality code, and writing application interface
-            code via JavaScript and React JS workflows. Adept at monitoring and
-            maintaining frontend performance and troubleshooting and debugging
-            the same to bolster overall performance.
+            A year experience as an associate software engineer, worked in a diverse fields.
+            I worked as MERN stack developer @ Fastech Systems, where I have learned react and node.js
+            with hands-on experience in identifying web-based user interactions along with designing and
+            implementing highly-responsive user interface components by deploying React concepts. Furthermore, I worked 
+            as a student researcher @ NTNU University, Norway. I got a chance to work on deep learning projects, 
+            Human Activity Recongination with belt sensor dataset. In this project I used CNN for feature learning along with Transformer Encoder 
+            with BiLSTM branch.
+
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
