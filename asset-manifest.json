@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/hadsaw_portfolio/static/css/main.9b1be2e8.css",
+    "main.js": "/hadsaw_portfolio/static/js/main.36ac78bd.js",
+    "static/media/t2.jpg": "/hadsaw_portfolio/static/media/t2.d213ce812bfbd898d8bd.jpg",
+    "static/media/t4.jpg": "/hadsaw_portfolio/static/media/t4.d20a3a5331e55432ed1e.jpg",
+    "static/media/t5.jpg": "/hadsaw_portfolio/static/media/t5.49e47a4925d1b223df19.jpg",
+    "static/media/t6.jpg": "/hadsaw_portfolio/static/media/t6.280825625a5e6d160e72.jpg",
+    "static/media/t1.jpg": "/hadsaw_portfolio/static/media/t1.0e79078dc40e0a98d707.jpg",
+    "static/media/t3.jpg": "/hadsaw_portfolio/static/media/t3.e9cf4d5fe6d3c30e8417.jpg",
+    "static/media/Educational Website.jpg": "/hadsaw_portfolio/static/media/Educational Website.97050bafaa509873a210.jpg",
+    "static/media/Project4.jpg": "/hadsaw_portfolio/static/media/Project4.8de82fea50154dddbe24.jpg",
+    "static/media/Startup Agency Project.jpg": "/hadsaw_portfolio/static/media/Startup Agency Project.dcb42126ea6ff853c8f3.jpg",
+    "static/media/Covid-19 Project.jpg": "/hadsaw_portfolio/static/media/Covid-19 Project.285d47443247c9a7a625.jpg",
+    "static/media/RubyCode Blog Project.jpg": "/hadsaw_portfolio/static/media/RubyCode Blog Project.d46d52b39719c767823a.jpg",
+    "static/media/Jokes Project.jpg": "/hadsaw_portfolio/static/media/Jokes Project.133f44f42c2b6b0c1781.jpg",
+    "static/media/Hadsaw resume.pdf": "/hadsaw_portfolio/static/media/Hadsaw resume.de3e5f7282c566de6a9c.pdf",
+    "static/media/logo-ntnu.png": "/hadsaw_portfolio/static/media/logo-ntnu.81207f3fc558cf08a0d5.png",
+    "static/media/Passport Size Photo Hadsaw kakazai .jpg": "/hadsaw_portfolio/static/media/Passport Size Photo Hadsaw kakazai .31c41b3f072379d462ff.jpg",
+    "index.html": "/hadsaw_portfolio/index.html",
+    "main.9b1be2e8.css.map": "/hadsaw_portfolio/static/css/main.9b1be2e8.css.map",
+    "main.36ac78bd.js.map": "/hadsaw_portfolio/static/js/main.36ac78bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b1be2e8.css",
+    "static/js/main.36ac78bd.js"
+  ]
+}
